@@ -1,5 +1,5 @@
 var scrape = require("../scripts/scrape");
-var headLinesController = require("../controllers/headLines");
+var headLinesController = require("../controllers/headlines");
 var notesController = require("../controllers/notes");
 
 
