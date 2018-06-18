@@ -22,10 +22,12 @@ body {
 .jumbotron {
     position: relative;
     width: 100%;
-    height: 500px;
+    height: 200px;
     font-family: "Cormorant SC";
     padding: 0;
     box-shadow: 10px 5px 20px 2px lightslategray;
+    background-color: #1F415C;
+    color: lightslategrey;
 }
 
 .jumbotron .overlay {
